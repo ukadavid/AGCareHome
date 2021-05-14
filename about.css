@@ -1,0 +1,89 @@
+/* About Page */
+
+.about-us {
+  color: #F1BF0F;
+}
+
+.nav-link {
+font-size: 12px;
+padding: 0;
+}
+
+#title-2 {
+    padding: 5px 0;
+}
+
+#title .title-nav {
+    margin-left: 10%;
+}
+
+.logo{
+  margin-left: 20px;
+}
+
+.about-nav {
+  color: #F1BF0F;
+  border-bottom: 2px solid #F1BF0F;
+}
+
+.about-nav:hover {
+  color: #F1BF0F;
+  border-bottom: 2px solid #F1BF0F;
+}
+
+#about-us {
+ background-image: url("./Img/background-about2.jpg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ opacity: 0.9;
+ color: #fff;
+}
+
+
+.about-first-page {
+  background-color: rgba(30, 31, 31, 0.637);
+  padding: 7% 15%;
+}
+
+.about-first-page p {
+  color: #fff;
+}
+
+.about-page-section {
+  text-align: center;
+}
+
+.about-h {
+  color: #F1BF0F;
+  margin-top: 10px;
+}
+
+.about-us-ag p {
+  padding: 0 8% 5%;
+}
+
+/* Vision and mission Statement */
+.mision-vision {
+  padding: 5% 10%;
+}
+
+ .line-mission-vision h3, .line-vision h3 {
+   color: #F1BF0F;
+ }
+
+ /* Footer */
+footer {
+  padding: 5% 5%;
+}
+
+.footer-contact li {
+    font-size: 0.9rem;
+}
+
+.footer-contact ul {
+  padding-left: 0;
+}
+
+.footer-logo {
+  margin-left: 0;
+} 
